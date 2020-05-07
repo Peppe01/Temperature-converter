@@ -1,0 +1,11 @@
+{
+  "name": "converttemp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "giuseppe.puglia@stevejobs.academy",
+  "license": "ISC"
+}
